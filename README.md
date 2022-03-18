@@ -5,3 +5,9 @@
 
 ### [💡 질의응답 스프레드시트 바로가기](https://docs.google.com/spreadsheets/d/1nJexXHS_E0uwGlRp-z3YAyxdSA5a_oHrYWGjPe1RWFs/edit?usp=sharing)
 ### [🏷 임베디드 온라인 저지](http://eseoj.inu.ac.kr/JudgeOnline/)
+
+<br>  
+
+[1주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2001) : `introduction`  
+[2주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2002) : `변수` `사칙연산` `printf` `scanf`  
+[3주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2002) : `변수` `자료형` `입출력 format` `상수` `sizeof`
