@@ -10,4 +10,5 @@
 
 [1주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2001) : `introduction`  
 [2주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2002) : `변수` `사칙연산` `printf` `scanf`  
-[3주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2003) : `변수` `자료형` `입출력 format` `상수` `sizeof`
+[3주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2003) : `변수` `자료형` `입출력 format` `상수` `sizeof`  
+[4주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2004) : `연산자(산술, 관계, 논리, 비트, 삼항, 증감)`
