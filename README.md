@@ -13,3 +13,5 @@
 [3주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2003) : `변수` `자료형` `입출력 format` `상수` `sizeof`  
 [4주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2004) : `연산자(산술, 관계, 논리, 비트, 삼항, 증감)`  
 [5주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/Week%2005) : `if문` `switch문` `while문` `for문` `break/continue`  
+6주차 실습 : `중간고사 1차` - [1563](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1563), [1564](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1564), [1565](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1565), [1566](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1566), [1567](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1567), [1568](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1568), [1569](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1569), [1570](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1570)  
+7ㅈ차 실습 : `중간고사 2차`  
