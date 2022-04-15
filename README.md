@@ -14,4 +14,13 @@
 [4주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2004) : `연산자(산술, 관계, 논리, 비트, 삼항, 증감)`  
 [5주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/Week%2005) : `if문` `switch문` `while문` `for문` `break/continue`  
 6주차 실습 : `중간고사 1차` - [1563](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1563), [1564](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1564), [1565](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1565), [1566](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1566), [1567](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1567), [1568](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1568), [1569](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1569), [1570](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1570)  
-7ㅈ차 실습 : `중간고사 2차`  
+[7주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2007%20(%ED%95%A8%EC%88%98%20%ED%8A%B9%EA%B0%95)) : `함수 특강`  
+ &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+ `중간고사 2차` - [1571](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1571), 
+[1572](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1572), 
+[1573](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1573), 
+[1574](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1574), 
+[1575](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1575), 
+[1576](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1576), 
+[1577](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1577), 
+[1578](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1578)  
