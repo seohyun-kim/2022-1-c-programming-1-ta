@@ -25,4 +25,7 @@
 [1577](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1577), 
 [1578](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1578)  
 
-[8주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2008) : `C에서 사용되는 다양한 함수`, `UpDown 게임` - [예시코드](https://github.com/seohyun-kim/2022-C-Programming-TA/blob/main/week%2008/randomUpDown.c)
+[8주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2008) : `C에서 사용되는 다양한 함수`  `UpDown 게임` - [예시코드](https://github.com/seohyun-kim/2022-C-Programming-TA/blob/main/week%2008/randomUpDown.c)
+
+[9주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2009) : `변수와 지정자(static, volatile, extern)` `재귀함수(순환호출)`  `hanoi탑 알고리즘`- [예시코드](https://github.com/seohyun-kim/2022-C-Programming-TA/blob/main/week%2009/hanoi_recursive.c)
+
