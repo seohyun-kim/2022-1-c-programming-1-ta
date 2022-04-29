@@ -24,3 +24,5 @@
 [1576](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1576), 
 [1577](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1577), 
 [1578](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1578)  
+
+[8주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2008) : `C에서 사용되는 다양한 함수`, `UpDown 게임` - [예시코드](https://github.com/seohyun-kim/2022-C-Programming-TA/blob/main/week%2008/randomUpDown.c)
