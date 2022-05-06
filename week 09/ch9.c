@@ -1,13 +1,45 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-// Àü¿ªº¯¼ö , Áö¿ªº¯¼ö
-// auto, static, volatile, extern
 
 
+#if 0
+// ì „ì—­ë³€ìˆ˜ , ì§€ì—­ë³€ìˆ˜
+// auto, static, volatile, register, extern
+
+int x = 10; // ì „ì—­ë³€ìˆ˜(global)
+
+void abc() {
+	static int count = 0; // static ë³€ìˆ˜ëŠ” ì´ì „ì˜ ê°’ ìœ ì§€
+	count++;
+	printf("count : %d", count);
+}
 
 
-// ÆÑÅä¸®¾óÀ» ¼øÈ¯È£Ãâ(Recursion)·Î ÇØº¸±â
+int main() {
+	int a; // ì§€ì—­ë³€ìˆ˜(local)
+	int x = 20; // ë³€ìˆ˜ ì´ë¦„ ê°™ìœ¼ë©´ ë¡œì»¬ë³€ìˆ˜ ìš°ì„ 
+	printf("%d", x);
+
+	abc();
+	abc();
+	abc();
+	abc();
+	abc();
+
+	volatile int n = 0; // volatile ë³€ìˆ˜ëŠ” ìµœì í™”ë¥¼ í•˜ì§€ ì•ŠìŒ
+
+	for (int i = 0; i < 10; i++)
+	{
+		n = i;
+	}
+
+	return 0;
+}
+#endif
+
+
+// íŒ©í† ë¦¬ì–¼ì„ ìˆœí™˜í˜¸ì¶œ(Recursion)ë¡œ í•´ë³´ê¸°
 #if 0
 
 long factorial(int n) {
@@ -23,7 +55,7 @@ long factorial(int n) {
 int main() {
 	int n = 5;
 
-	printf("%d! Àº %d ÀÔ´Ï´Ù.\n", n, factorial(n));
+	printf("%d! ì€ %d ì…ë‹ˆë‹¤.\n", n, factorial(n));
 
 	return 0;
 }
@@ -33,9 +65,9 @@ int main() {
 
 
 
-// 1~n ±îÁö ÇÕÀ» ´õÇÏ´Â ÇÁ·Î±×·¥ (1+2+3+ ... +n) 
-// ¼øÈ¯È£Ãâ ÀÌ¿ë
-// p. 411 ÇÁ·Î±×·¡¹Ö ¹®Á¦ 5¹ø
+// 1~n ê¹Œì§€ í•©ì„ ë”í•˜ëŠ” í”„ë¡œê·¸ë¨ (1+2+3+ ... +n) 
+// ìˆœí™˜í˜¸ì¶œ ì´ìš©
+// p. 411 í”„ë¡œê·¸ë˜ë° ë¬¸ì œ 5ë²ˆ
 #if 0
 int sum(int n) {
 
