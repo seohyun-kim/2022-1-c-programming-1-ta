@@ -38,3 +38,5 @@
 [10주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2010) : [Tic-Tac-Toe 게임](https://github.com/seohyun-kim/2022-C-Programming-TA/blob/main/week%2010/my_tic_tac_toe(%EC%98%88%EC%8B%9C%EC%BD%94%EB%93%9C).c)
 
 [11주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2011) : `포인터`, `간접참조`, `포인터의 데이터타입`, `주소체계`
+
+[12주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2012) : `포인터`, `포인터와 배열의관계`, `문자열`, `문자열함수`
