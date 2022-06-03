@@ -38,3 +38,15 @@
 [10주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2010) : [Tic-Tac-Toe 게임](https://github.com/seohyun-kim/2022-C-Programming-TA/blob/main/week%2010/my_tic_tac_toe(%EC%98%88%EC%8B%9C%EC%BD%94%EB%93%9C).c)
 
 [11주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2011) : `포인터`, `간접참조`, `포인터의 데이터타입`, `주소체계`
+
+[12주차 실습](https://github.com/seohyun-kim/2022-C-Programming-TA/tree/main/week%2012) : `포인터`, `포인터와 배열의관계`, `문자열`, `문자열함수`
+
+13주차 실습 : `기말고사 1차` - [1593](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1593), 
+[1594](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1594),
+[1595](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1595),
+[1596](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1596),
+[1597](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1597),
+[1598](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1598),
+[1599](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1599),
+[1600](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1600),
+[1601](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1601)
