@@ -7,6 +7,7 @@
 
 ## 구조체 특강
 ### [ > 2021-2 학기 C언어 프로그래밍2 강의자료 참고](https://github.com/seohyun-kim/2021-C-programming-TA)
+### [ > Zoom 녹화본 바로가기](https://youtu.be/SDv-eKfXwfc)
 
 - 구조체란?
 - 구조체의 사이즈
