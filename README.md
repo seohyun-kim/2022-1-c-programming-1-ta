@@ -50,3 +50,6 @@
 [1599](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1599),
 [1600](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1600),
 [1601](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1601)
+
+[14주차 실습] : [Hangman 게임](https://github.com/seohyun-kim/2022-C-Programming-TA/blob/main/week%2014/hangman.c), `구조체 특강`
+
