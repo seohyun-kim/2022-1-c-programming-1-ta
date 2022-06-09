@@ -53,3 +53,4 @@
 
 [14주차 실습](https://github.com/seohyun-kim/2022-C-Programming-1--TA/tree/main/week%2014) : [Hangman 게임](https://github.com/seohyun-kim/2022-C-Programming-TA/blob/main/week%2014/hangman.c), `구조체 특강`
 
+15주차 실습 : `기말고사 2차`
