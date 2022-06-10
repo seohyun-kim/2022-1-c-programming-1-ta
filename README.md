@@ -53,4 +53,11 @@
 
 [14주차 실습](https://github.com/seohyun-kim/2022-C-Programming-1--TA/tree/main/week%2014) : [Hangman 게임](https://github.com/seohyun-kim/2022-C-Programming-TA/blob/main/week%2014/hangman.c), `구조체 특강`
 
-15주차 실습 : `기말고사 2차`
+15주차 실습 : `기말고사 2차` - [1602](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1602),
+[1603](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1603),
+[1604](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1604),
+[1605](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1605),
+[1606](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1606),
+[1607](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1607),
+[1608](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1608),
+[1609](http://eseoj.inu.ac.kr/JudgeOnline/problem.php?id=1609)
